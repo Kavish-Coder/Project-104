@@ -1,0 +1,19 @@
+.name_of_objects {
+    color:deepskyblue;
+}
+
+body {
+    background-color: gold;
+}
+
+.heading {
+    width: 80%;
+    font-size: 30px;
+}
+#camera {
+    border: 10px;
+    border-color: indigo;
+    border-style: ridge;
+    width: 500px;
+    height: 500px;
+}
